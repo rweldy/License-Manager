@@ -1,0 +1,5 @@
+# Copyright @ 2023 Overland Storage, Inc. dba Overland-Tandberg. All rights reserved.
+venv/
+venv-windows/
+**/__pycache__/
+.idea/

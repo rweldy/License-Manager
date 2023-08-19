@@ -1,0 +1,9 @@
+# Copyright @ 2023 Overland Storage, Inc. dba Overland-Tandberg. All rights reserved.
+#!/usr/bin/bash
+curl -X 'POST' \
+  'http://elias.colab:5007/commands/update_licenses' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{}'
+
+# This script is ran by a cron job every 2 weeks to update the license info of all registered licenses on the QuikStation

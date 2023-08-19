@@ -1,0 +1,9 @@
+# Copyright @ 2023 Overland Storage, Inc. dba Overland-Tandberg. All rights reserved.
+# Overland-Tandberg keys from LicenseSpring
+api_key: 'XXXXXXXXXXXXXXXXXXXXXX'
+
+shared_key: 'XXXXXXXXXXXXXXXXXXXXXXXXX'
+
+# this is the file where license keys are stored, in case it moves
+key_file: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+
